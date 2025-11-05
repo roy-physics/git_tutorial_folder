@@ -7,4 +7,4 @@ import numpy as np
 
 print(f"x={x}; y={y}")
 print(f"x+y={x+y}")
-print(f"x-y={x-y}"
+print(f"x-y={x-y}")
