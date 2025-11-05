@@ -4,3 +4,5 @@ y=x+2
 # note to self: be sure to update code
 
 import numpy as np
+
+print(x+y)
